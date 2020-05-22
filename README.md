@@ -6,43 +6,46 @@
   <img src="screenshot2.jpg" width="1080" hspace="20"/> 
 </p>
 
-* [Important Note](#important-note)
-* [Requisites](#requisites)
-* [Setup](#setup)
-  * [Test Example](#test-example)
+* [Đối tượng sử dụng](#doi-tuong-su-dung)
+* [Cần thiết](#can-thiet)
+* [Cài đặt](#cai-dat)
+  * [Thử nghiệm](#thu-nghiem)
 * [References](#references)
 
-## Important Note
+## Đối tượng sử dụng
 
-This repository is for reference only, so there may be errors, need to wait for a qualified physician to check, please do not rely on the program results to make health diagnosis.
+- Các công ty, doanh nghiệp có nhu cầu sử dụng sản phẩm để chấm công chính xác và xác định năng suất lao động
+- Các cửa hàng có nhu cầu ghi nhớ về thói quen mua sắm của khách hàng
   
-## Requisites
+## Cần thiết
 
 * [Python 3.7.6](https://www.python.org/downloads/release/python-376/)
+* [Tensorflow 1.15.0](https://www.tensorflow.org/)
 
-## Setup
+## Cài đặt
 
-First clone the repository:
+Đầu tiên tải về Github này
 ```
-git clone https://github.com/importkeras/hackcovy.git
-cd SmartFit
+git clone https://github.com/importkeras/vnhackathon.git
 ```
 
-Next, run the following command, which will install the required packages via
+Tiếp theo, gõ dòng lệnh này trong Command Prompt để tự động cài đặt các thư viện cần thiết:
 ```
 pip install -r requirements.txt
 ```
 
-### Test Example
+### Thử nghiệm
 
-To test whether the setup was successful, run the following command.
+Để khởi động chương trình, trỏ Command Prompt tới thư mục chứa tệp tin và gõ vào dòng lệnh sau:
 ```
-python hackcovy.py
+python vnhackathon.py
 ```
 
-## References
+## Tài liệu tham khảo
 
-This project builds from the work listed below:
+Sản phẩm này được xây dựng để tham gia cuộc thi Vietnam Online Hackathon (vnhackathon.com). 
+Những tài liệu tham khảo chúng tôi sử dụng trong sản phẩm này:
 
-* COVID-19 image data collection ([repo](https://github.com/ieee8023/covid-chestxray-dataset))
-* Dr. Joseph Cohen and Chest x-ray dataset from Oxford
+* Corona Face Mask Detector ([repo](https://github.com/aribornstein/CoronaFaceMaskDetectionTFJS))
+* Tài liệu tham khảo về Yolov3 ([Liên kết](https://medium.com/@manivannan_data/how-to-train-yolov3-to-detect-custom-objects-ccbcafeb13d2))
+* Google Cloud Platform
