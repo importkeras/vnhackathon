@@ -9,6 +9,7 @@ Ba tính năng mà chúng tôi chọn để trình diễn trong Hackathon lần 
 <p float="left">
   <img src="screenshot1.jpg" width="1080" hspace="20"/>
   <img src="screenshot2.jpg" width="1080" hspace="20"/> 
+  <img src="screenshot3.jpg" width="1080" hspace="20"/> 
 </p>
 
 * [Đối tượng sử dụng](#doi-tuong-su-dung)
@@ -53,4 +54,4 @@ Những tài liệu tham khảo chúng tôi sử dụng trong sản phẩm này:
 
 * Corona Face Mask Detector ([Github](https://github.com/aribornstein/CoronaFaceMaskDetectionTFJS))
 * Tài liệu tham khảo về Yolov3 ([Liên kết](https://medium.com/@manivannan_data/how-to-train-yolov3-to-detect-custom-objects-ccbcafeb13d2))
-* Google Cloud Platform([Liên kết](https://cloud.google.com/))
+* Google Cloud Platform ([Liên kết](https://cloud.google.com/))
