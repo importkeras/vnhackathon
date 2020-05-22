@@ -40,6 +40,8 @@ Tiếp theo, gõ dòng lệnh này trong Command Prompt để tự động cài 
 pip install -r requirements.txt
 ```
 
+Cuối cùng tải về [yolo.h5](https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view) là mô hình nhận dạng người mà chúng tôi đã tinh chỉnh huấn luyện từ yolov3 để đạt độ chính xác rất cao, cho vào thư mục model_data
+
 ### Thử nghiệm
 
 Để khởi động chương trình, trỏ Command Prompt tới thư mục chứa tệp tin và gõ vào dòng lệnh sau:
