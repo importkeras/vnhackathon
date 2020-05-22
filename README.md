@@ -4,7 +4,7 @@
 Ba tính năng mà chúng tôi chọn để trình diễn trong Hackathon lần này:
 - Phần mềm hỗ trợ giám sát thực hiện giãn cách xã hội và đeo khẩu trang
 - Xác định người không đeo khẩu trang là ai trong số các nhân viên công ty
-- Truy xuất thông tin về lịch sử khách hàng thông qua nhận diện khuôn mặt
+- Truy xuất thông tin về lịch sử khách hàng thông qua nhận diện khuôn mặt, có thể tự động nhận dạng khách hàng mới
 
 <p float="left">
   <img src="screenshot1.jpg" width="1080" hspace="20"/>
