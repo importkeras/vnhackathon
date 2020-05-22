@@ -1,6 +1,11 @@
 # [ELISE - GIẢI PHÁP AI TRONG QUẢN LÝ NHÂN SỰ VÀ KHÁCH HÀNG CHO DOANH NGHIỆP CỦA BẠN](https://www.youtube.com/)
 ### Hệ thống cung cấp các tính năng nhận dạng con người, hành vi, khuôn mặt, vật thể thông qua xử lý ảnh giúp thay thế phương pháp truyền thống và cung cấp các gói sản phẩm phục vụ các nhu cầu và hoàn cảnh khác nhau.
 
+Ba tính năng mà chúng tôi chọn để trình diễn trong Hackathon lần này:
+- Phần mềm hỗ trợ giám sát thực hiện giãn cách xã hội và đeo khẩu trang
+- Xác định người không đeo khẩu trang là ai trong số các nhân viên công ty
+- Truy xuất thông tin về lịch sử khách hàng thông qua nhận diện khuôn mặt
+
 <p float="left">
   <img src="screenshot1.jpg" width="1080" hspace="20"/>
   <img src="screenshot2.jpg" width="1080" hspace="20"/> 
@@ -46,6 +51,6 @@ python vnhackathon.py
 Sản phẩm này được xây dựng để tham gia cuộc thi Vietnam Online Hackathon (vnhackathon.com). 
 Những tài liệu tham khảo chúng tôi sử dụng trong sản phẩm này:
 
-* Corona Face Mask Detector ([repo](https://github.com/aribornstein/CoronaFaceMaskDetectionTFJS))
+* Corona Face Mask Detector ([Github](https://github.com/aribornstein/CoronaFaceMaskDetectionTFJS))
 * Tài liệu tham khảo về Yolov3 ([Liên kết](https://medium.com/@manivannan_data/how-to-train-yolov3-to-detect-custom-objects-ccbcafeb13d2))
-* Google Cloud Platform
+* Google Cloud Platform([Liên kết](https://cloud.google.com/))
