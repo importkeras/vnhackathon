@@ -2,8 +2,8 @@
 ### Hệ thống cung cấp các tính năng nhận dạng con người, hành vi, khuôn mặt, vật thể thông qua xử lý ảnh giúp thay thế phương pháp truyền thống và cung cấp các gói sản phẩm phục vụ các nhu cầu và hoàn cảnh khác nhau.
 
 <p float="left">
-  <img src="screenshot1.jpg" width="256" hspace="20"/>
-  <img src="screenshot2.jpg" width="256" hspace="20"/> 
+  <img src="screenshot1.jpg" width="1080" hspace="20"/>
+  <img src="screenshot2.jpg" width="1080" hspace="20"/> 
 </p>
 
 * [Important Note](#important-note)
